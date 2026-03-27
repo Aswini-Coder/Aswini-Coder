@@ -1,9 +1,12 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Aswini Kumar Mantry</h1>
+
 <p align="center">
-  <b>AI/ML Engineer in Progress • Data-Driven Thinker • Problem Solver</b>
+AI/ML Engineer in Progress • Data Science Enthusiast • Problem Solver
 </p>
 
+---
+
+## 🔗 Connect
 <p align="center">
   <a href="mailto:aswinimantry@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
@@ -12,58 +15,61 @@
 
 ---
 
-## 🧭 Profile
-I am a B.Tech Computer Science (AI/ML) student focused on building intelligent systems that solve real-world problems.  
-My work sits at the intersection of **machine learning, data analysis, and practical applications**.
-
-I believe in:
-- Learning by building  
-- Thinking in systems, not just code  
-- Solving problems that create impact  
-
----
-
-## ⚙️ Core Competencies
+## ⚙️ Tech Stack
 
 **Languages**  
 Python • Java • C  
 
-**AI & Data**  
+**AI / ML**  
 Machine Learning • NLP • Data Analysis  
 
 **Tools**  
-SQL • Kaggle • Excel  
+SQL • Kaggle • MS Excel  
 
-**Foundations**  
-Data Structures & Algorithms • Problem Solving  
-
----
-
-## 📌 Selected Work
-
-### AI-Powered Smart Farming Assistant
-- Designed a supervised ML system for crop recommendation  
-- Incorporated environmental and soil parameters  
-- Explored early-stage computer vision for plant disease detection  
-- Focus: Applying AI to agriculture (real-world impact)
+**Core CS**  
+Data Structures & Algorithms  
 
 ---
 
-### Rule-Based Conversational System
-- Built a structured chatbot using Python  
-- Implemented intent mapping and response logic  
-- Learned fundamentals of NLP pipelines and interaction design  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### Algorithmic Thinking: Number Reversal System
-- Implemented efficient logic using Java  
-- Strengthened understanding of control flow and computation  
+## 📌 Selected Projects
+
+### 🌱 AI-Powered Smart Farming Assistant
+- Built ML model for crop recommendation using soil & weather data  
+- Explored plant disease detection using computer vision  
+- Focused on solving real-world agricultural problems  
 
 ---
 
-## 📊 Engineering Mindset
+### 💬 Rule-Based Conversational System
+- Developed chatbot using Python and structured logic  
+- Implemented intent mapping and response flow  
+- Gained foundational NLP understanding  
+
+---
+
+### 🔢 Algorithmic Problem Solving (Java)
+- Implemented number reversal logic  
+- Strengthened control structures and logical thinking  
+
+---
+
+## 📈 Most Used Languages
+- Python (Primary for ML & Data Science)  
+- Java (DSA & Problem Solving)  
+- C (Core Programming Foundations)  
+
+---
+
+## 🧠 Engineering Approach
 
 ```text
-Problem → Data → Model → Evaluation → Improvement
-
+Understand Problem → Analyze Data → Build Model → Evaluate → Optimize
